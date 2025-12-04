@@ -69,4 +69,5 @@ A deployed portfolio, organized codebase, and well-written documentation reflect
 Email: ananyagangrade09@gmail.com
 
 Phone: +91 9343114249
+
 Portfolio: https://ananyagangrade.github.io/ananya-portfolio/
