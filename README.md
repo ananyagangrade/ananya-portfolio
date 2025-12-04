@@ -1,81 +1,72 @@
-Ananya Gangrade – Developer Portfolio
-Python Developer | Tkinter GUI Developer | Web Developer (HTML, CSS, JS) | MCA Student
+##Ananya Gangrade – Developer Portfolio
 
-🔗 Live Portfolio: https://ananyagangrade.github.io/ananya-portfolio/
+Python Developer | Tkinter GUI Developer | Web Developer (HTML, CSS, JavaScript) | MCA Student
 
-🔗 GitHub Profile: https://github.com/ananyagangrade
+Live Portfolio: https://ananyagangrade.github.io/ananya-portfolio/
 
-🔗 LinkedIn: https://www.linkedin.com/in/ananya-gangrade-85009024a/
+GitHub Profile: https://github.com/ananyagangrade
 
-💼 Summary
+LinkedIn: https://www.linkedin.com/in/ananya-gangrade-85009024a/
 
-This portfolio showcases my journey as an aspiring Python Developer & Web Developer, featuring hands-on projects, clean UI design, and practical applications that demonstrate my ability to build real-world software.
+Summary
 
-I focus on:
+This portfolio showcases my work as an aspiring Python Developer and Web Developer. It includes hands-on projects, clean UI design, and functional applications that demonstrate my understanding of real-world development.
 
-Python development (Tkinter GUI, OOP, File Handling, MySQL)
+My strengths include:
 
-Web development fundamentals (HTML, CSS, JavaScript)
+Python development (Tkinter, OOP, File Handling, MySQL)
 
-Problem-solving & application architecture
+Frontend development (HTML, CSS, JavaScript)
 
-Creating responsive, user-friendly interfaces
+Building user-friendly, responsive interfaces
 
-I am actively seeking a Python Development / Web Development internship where I can apply my skills and learn from real project environments.
+Problem-solving and structured application development
 
-🚀 Highlights of This Portfolio
+I am actively seeking a Python Development or Web Development internship where I can contribute to projects, gain practical experience, and continue improving my skills.
 
-✔ Professional, responsive, and clean user interface
-✔ Showcases real Python GUI applications (To-Do App, Text Editor, Games, Utilities)
-✔ Beginner-friendly web projects demonstrating frontend fundamentals
-✔ Resume download & direct contact options for recruiters
-✔ Deployed using GitHub Pages for instant access
+Portfolio Highlights
 
-🛠 Tech Stack
+Clean and responsive user interface
+
+Projects that demonstrate Python GUI development
+
+Beginner web development projects showing frontend fundamentals
+
+Resume download and direct contact section for recruiters
+
+Deployed through GitHub Pages for easy access
+
+Tech Stack
 
 Languages: Python, C++, C, HTML5, CSS3, JavaScript
-Python Skills: Tkinter, OOP, File Handling, MySQL (mysql.connector), pyttsx3
-Web Skills: Responsive UI, DOM events, basic interactivity
-Tools: VS Code, Git, GitHub
-Concepts: Data Structures, Algorithms, DBMS, OS, Software Engineering
+Python: Tkinter, OOP, MySQL (mysql.connector), File Handling, pyttsx3
+Web: Responsive layout design, DOM interaction
+Tools: Git, GitHub, VS Code
+Concepts: Data Structures, Algorithms, DBMS, Operating Systems, Software Engineering
 
-📌 Project Structure
+Project Structure
 portfolio-site/
 │── index.html        → Main webpage
-│── style.css         → Complete styling (responsive layout)
-│── script.js         → Interactivity & animations
-│── assets/           → Images, icons, media (if any)
-│── README.md         → You’re reading it!
+│── style.css         → Styling and layout
+│── script.js         → JavaScript interactivity
+│── README.md         → Project documentation
 
-💡 Why This Portfolio Helps Me Get an Internship
+Why This Portfolio Supports My Internship Application
+1. Practical Work
 
-Recruiters want 3 things from an intern:
+The projects listed in this portfolio demonstrate that I can build functional applications using Python and basic web technologies.
 
-⭐ 1. Can you build something real?
+2. Ability to Learn Quickly
 
-This portfolio demonstrates:
+The variety of applications—from GUI apps to frontend development—highlights adaptability and willingness to explore new concepts.
 
-Functional applications
+3. Professional Presentation
 
-GUI development
+A deployed portfolio, organized codebase, and well-written documentation reflect professionalism and commitment to development.
 
-Database integration
+Contact
 
-Clean UI design
+Email: ananyagangrade09@gmail.com
 
-⭐ 2. Can you learn fast?
-
-The variety of projects (GUI apps, utilities, web pages) shows adaptability and willingness to explore new tools.
-
-⭐ 3. Are you serious about development?
-
-A deployed portfolio + active GitHub + polished README = strong commitment towards a development career.
-
-📫 Contact
-
-If you’re looking for a motivated and fast-learning intern for Python or Web Development roles, feel free to reach out.
-
-📧 Email: ananyagangrade09@gmail.com
-
-📱 Phone: +91 9343114249
-🌐 Portfolio: https://ananyagangrade.github.io/ananya-portfolio/
+Phone: +91 9343114249
+Portfolio: https://ananyagangrade.github.io/ananya-portfolio/
